@@ -1,0 +1,513 @@
+@media (max-width: 1370px) {
+    .one-day-earn {
+        height: 209px;
+    }
+    .one-day-earn h3 {
+        font-size: 40px;
+    }
+    .want-more-profit .card {
+     height: 198px;
+}
+.want-more-profit .card .card-body p {
+    font-size: 14px;
+}
+.client-monial.slick-slide.slick-current.slick-active.slick-center .felt p {
+    font-size: 12px;
+}
+.client-monial .felt p {
+    font-size: 12px;
+}
+.covered-slider-img{
+    margin: 0 16px;
+}
+.start-earning-content h1{
+    font-size: 62px;
+}
+.start-earning-content h4 {
+margin: 20px 0;
+}
+.client-monial {
+    margin: 90px 0px 41px 0px;
+    height: 447px !important;
+}
+.client-img-wrap .card .client-img {
+ width: 56px;
+ height: 56px;
+}
+.client-img-wrap .card .card-body p{
+    font-size: 15px;
+} 
+.client-monial.slick-slide.slick-current.slick-active.slick-center .card .card-body p{
+    font-size: 15px;
+}
+.client-monial {
+height: 380px !important;
+}
+.all-scroller a {
+right: 0;
+}
+.chat-up-wrap {
+    right: 0%;
+}
+}
+
+@media (max-width: 1200px) {
+    .header .navbar-menus ul li {
+        padding: 0 27px;
+    }
+    .get-any-average h2 {
+        line-height: 47px;
+        font-size: 37px;
+    }
+    .one-day-tier-1 h6 {
+        font-size: 28px;
+}
+.one-day-tier h6 {
+   font-size: 29px;
+}
+.one-day-earn h3 {
+    font-size: 37px;
+}
+.one-day-tier h6::before{
+    content: none;
+}
+.one-day-tier h6::after{
+    content: none;
+}
+.one-day-tier-1 h6::before{
+    content: none;
+}
+.one-day-tier-1 h6::after{
+    content: none;
+}
+.heading h2 {
+font-size: 38px;
+}
+.confused-img-wrap {
+    height: 200px;
+}
+.want-more-profit .card {
+    padding: 29px;
+}
+.client-monial {
+ margin-top: 0;
+}
+.client-monial.slick-slide.slick-current.slick-active.slick-center{
+    margin-top: 0;
+}
+.frequently-asked-accding .accordion-button:not(.collapsed)::after {
+    position: relative;
+    right: -18px;
+}
+.accordion-button::after{
+    position: relative;
+    right: -18px;
+}
+.subscribe-content h1{
+    font-size: 42px;
+}
+.footer-headers h4 {
+font-size: 20px;
+}
+.footer-headers h4::before {
+left: -41px;
+}
+.copy-right-icon {
+    margin-right: 20px;
+}
+.chat-up-wrap {
+    right: -4%;
+    bottom: 20%;
+}
+}
+
+@media (max-width: 1024px) {
+.start-earning-content h1 {
+    font-size: 52px;
+}
+.heading h2 {
+    font-size: 33px;
+}
+.top-space{
+    padding-top: 50px;
+}
+.bottom-space{
+    padding-bottom: 50px;
+}
+.want-more-profit .card .card-body {
+    padding-left: 15px;
+}
+.want-more-profit .card .card-body h5 {
+   
+    font-size: 18px;
+}
+}
+@media (max-width: 992px) {
+    .banner .online-business h3{
+        font-size: 30px;
+    }
+    .banner .online-business h1{
+        font-size: 40px;
+    }
+    .benefits-img{
+        margin-bottom: 60px;
+        width: 70%;
+    }
+    .get-any-average{
+        margin-bottom: 70px;
+    }
+    .selling-the-best .heading h2 {
+        font-size: 25px;
+    }
+    .take-various h2{
+        font-size: 34px;
+    }
+    .take-various {
+        padding: 0 20px;
+    }
+    .want-more-profit .card .card-body h5 {
+        font-size: 25px;
+    }
+    .want-more-profit .card .card-body p {
+        font-size: 16px;
+    }
+    .rabawa-reseller {
+        margin-top: 40px;
+        padding-left: 0px;
+    }
+    .meet-our-resellers .heading h3 {
+        font-size: 30px;
+    }
+    .start-earning-million-wrap {
+        height: 435px;
+        margin: 23px 0;
+    }
+    .do-have-own-brand-wrap .heading h2 {
+        font-size: 28px;
+    }
+    .do-have-own-brand-wrap .heading h3 {
+        font-size: 28px;
+    }
+    .frequently-asked-accding {
+        padding: 0 0px;
+    }
+    .subscribe-wrap {
+     padding: 0 26px;
+    }
+    .subscribe-content h1 {
+        font-size: 30px;
+    }
+    .subscrive-mail {
+        margin: 25px 0;
+    }
+    .bottom-space {
+        padding-bottom: 20px;
+    }
+    .top-space {
+        padding-top: 20px;
+    }
+    .heading {
+        margin-bottom: 30px;
+    }
+    .navbar .navbar-toggler-icon i {
+        border: 2px solid #000;
+        border-radius: 100%;
+        padding: 6px 8px;
+        opacity: 1;
+    }
+    .header .navbar-menus ul li {
+        line-height: 47px;
+        padding-left: 0;
+    }
+    .head-alter-wrap {
+    right: 16px;
+    }
+    .footer-alter-wrap {
+        left: 55px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner .online-business h3 {
+        font-size: 23px;
+    }
+    .one-day-tier-1 h6 {
+        font-size: 24px;
+    }
+    .one-day-tier h6 {
+        font-size: 24px;
+    }
+    .one-day-earn h3 {
+        font-size: 32px;
+    }
+    .selling-the-best .heading h2 {
+        font-size: 18px;
+    }
+    .selling-the-best .heading p {
+        font-size: 14px;
+    }
+    .take-various h2 {
+        font-size: 32px;
+    }
+.join-premium .heading h2 {
+    font-size: 22px;
+}    
+.want-more-profit .card{
+    height: auto;
+}
+.want-more-profit .card .card-body {
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.felt h5 {
+    font-size: 18px;
+}
+.client-monial.slick-slide.slick-current.slick-active.slick-center .card .card-body p {
+    font-size: 13px;
+}
+.client-monial.slick-slide.slick-current.slick-active.slick-center {
+    height: 345px !important;
+}
+.heading h2 {
+    font-size: 27px;
+}
+.start-earning-content h1 {
+    font-size: 47px;
+}
+.do-have-own-brand-wrap .heading h2 {
+    font-size: 20px;
+}
+.do-have-own-brand-wrap .heading h3 {
+    font-size: 22px;
+}
+.subscribe-content {
+    padding-top: 66px;
+    padding-bottom: 50px;
+}
+.copy-right {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+.banner .online-business h1 {
+    font-size: 33px;
+    font-weight: 600;
+}
+.banner.top-space {
+    padding-top: 0px;
+}
+.head-alter-wrap {
+ width: 188px;
+}
+.head-alter .alert-warning p {
+    font-size: 12px;
+}
+.footer-alter-wrap {
+  width: 200px;
+}
+.footer-alter .alert-warning p {
+    font-size: 10px;
+}
+.chat-up-wrap {
+    right: -4%;
+    bottom: 27%;
+}
+.chat-box h6{
+    display: none;
+}
+.chat-up-wrap {
+    right: -39%;
+}
+}
+@media (max-width: 576px) {
+    .benefits-explain {
+        padding-left: 15px;
+    }
+    .selling-the-best .heading h2 {
+        font-size: 15px;
+    }
+    .join-premium .heading h2 {
+        font-size: 18px;
+    }
+    .rabawa-reseller h3{
+        font-size: 22px;
+    }
+    .meet-our-resellers .heading h3 {
+        font-size: 25px;
+    }
+    .client-monial.slick-slide.slick-current.slick-active.slick-center {
+        height: 423px !important;
+    }
+    .client-monial.slick-slide.slick-current.slick-active.slick-center .client-img-wrap .card .card-body h6 {
+        font-size: 13px;
+    }
+    .client-monial.slick-slide.slick-current.slick-active.slick-center .card .card-body p {
+        font-size: 9px;
+    }
+    .heading h2 {
+        font-size: 23px;
+    }
+    .do-have-own-brand-wrap .heading h2 {
+        font-size: 16px;
+    }
+    .frequently-asked-accding .accordion-button h5 {
+        font-size: 17px;
+    }
+    .heading {
+        margin-bottom: 20px;
+    }
+    .one-day-earn {
+        height: 181px;
+    }
+    .top-space {
+        padding-top: 40px;
+    }
+    .bottom-space {
+        padding-bottom: 40px;
+    }
+    .header {
+        padding: 20px 0 !important;
+        border-bottom: 2px solid #000;
+    }
+    .banner.top-space {
+        padding-top: 35px;
+    }
+    .head-alter-wrap{
+        top: 105px;
+    }
+    .chat-up-wrap {
+        right: -46%;
+    }
+    
+}
+
+@media (max-width: 480px) {
+    .banner .online-business p {
+        font-size: 13px;
+    }
+    .heading h2 {
+        font-size: 18px;
+    }
+    .benefits-explain .btn-primary {
+    font-size: 13px;
+    }
+    .get-any-average h2 {
+        line-height: 34px;
+        font-size: 26px;
+    }
+    .top-space{
+        padding-top: 25px;
+    }
+    .bottom-space{
+        padding-bottom: 25px;
+    }
+    .heading {
+        margin-bottom: 36px;
+    }
+    .take-various h2 {
+        font-size: 21px;
+    }
+    .take-various p {
+        line-height: 25px;
+    }
+    .want-more-profit .card .card-body h5 {
+        font-size: 21px;
+    }
+    .join-premium .heading h2 {
+        font-size: 14px;
+    }
+    .client-monial.slick-slide.slick-current.slick-active.slick-center {
+        height: 452px !important;
+    }
+    .start-earning-content h1 {
+        font-size: 38px;
+    }
+    .start-earning-million-wrap {
+        height: 316px;
+    }
+    .frequently-asked-accding .accordion-body p {
+        line-height: 23px;
+        font-size: 14px;
+    }
+    .heading h2::before{
+        background-size: contain;
+        left: -30px;
+    }
+    .do-have-own-brand-wrap .heading h2 {
+        font-size: 12px;
+    }
+    .selling-the-best .heading h2 {
+        font-size: 12px;
+    }
+    .meet-our-resellers .heading h3 {
+        font-size: 17px;
+    }
+    .head-alter .alert-warning {
+     padding-left: 25px;
+    }
+    .head-alter-wrap {
+        width: 170px;
+    }
+    .footer-alter .alert-warning {
+        padding-left: 29px;
+    }
+    .footer-alter-wrap {
+        width: 170px;
+    }
+    .rabwaw-userd span {
+        width: 37%;
+        height: 33px;
+    }
+    .header-logo {
+        width: 70%;
+    }
+    .chat-up-wrap {
+        right: -57%;
+    }
+    .chat-up-wrap {
+        right: -63%;
+    }
+   
+}
+@media (max-width: 360px) {
+    .banner .online-business h1 {
+        font-size: 27px;
+    }
+    .get-any-average .btn-primary{
+        font-size: 13px;
+    }
+    .selling-the-best .heading h2 {
+        font-size: 11px;
+    }
+    .selling-the-best .heading h2::before {
+        background-size: contain;
+        left: -19px;
+    }
+    .heading h2::before {
+        left: -23px;
+    }
+    .want-more-profit .card {
+        padding: 16px;
+    }
+    .client-monial.slick-slide.slick-current.slick-active.slick-center {
+        height: 480px !important;
+    }
+    .start-earning-content h1 {
+        font-size: 33px;
+    }
+    .frequently-asked-accding .accordion-button h5 {
+        padding-left: 43px;
+    }
+    .footer-logo-img {
+        width: 70%;
+    }
+    .benefits-explain .btn-primary {
+        font-size: 11px;
+    }
+    .chat-up-wrap {
+        right: -72%;
+    }
+}
