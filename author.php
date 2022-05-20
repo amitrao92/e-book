@@ -26,7 +26,8 @@ $current_author = get_author($conn, $id);
 # Category helper function
 include "php/func-category.php";
 $categories = get_all_categories($conn);
-
+  
+  #testinggggg
 
  ?>
 <!DOCTYPE html>
